@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flowstash Observability"
+  short_description: "Investigate managed Flowstash runs, logs, spans, and builds"
+  default_prompt: "Use $flowstash-observability to investigate managed Flowstash runs, logs, spans, exchanges, and builds for execution evidence."
